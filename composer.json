@@ -1,8 +1,8 @@
 {
-    "name": "shakura/yii2-gearman",
+    "name": "overals/yii2-gearman",
     "description": "Gearman handler for PHP",
     "keywords": ["yii", "extension"],
-    "homepage": "https://github.com/shakura/yii2-gearman",
+    "homepage": "https://github.com/overals/yii2-gearman",
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
